@@ -13,5 +13,5 @@ I tired to gather some demo data from Bloomstack demo generator. I tried to look
 I add sample for Item_wise_sales_history.csv
 and result we got for same is 
 
-![Item Wise Sales history](../result/item_wise_sales_history/item_wise_sales_history.png)
+<img src="Result/Item_wise_sales_history/item_wise_sales_history.png">
 
