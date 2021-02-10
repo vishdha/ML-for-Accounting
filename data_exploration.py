@@ -11,14 +11,8 @@ warnings.filterwarnings("ignore")
 sns.set()
 
 # Load the Iris Data
-iris = pd.read_csv("Iris.csv")
-iris.info()
+item_sales_data = pd.read_csv("Item_wise_sales_history.csv")
+
 
 # Examine several random rows
-iris.sample(5)
-
-# # Examine grouped data
-iris.groupby('Species').count()
-
-# Get descriptive statistics
-iris.describe()
+g = sns.pairplot(item_sales_data, hue="Customer")

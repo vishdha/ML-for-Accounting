@@ -1,0 +1,50 @@
+Item_Code,Quantity,UOM,Rate,Amount,Customer
+BL-FL-AOG,450,Gram,1.3,585,"Singleton, Beltran and Moore"
+BL-FL-CD,400,Gram,2.5,1000,"Singleton, Beltran and Moore"
+BL-FL-OC,350,Gram,5.5,1925,"Singleton, Beltran and Moore"
+BL-FL-BC,200,Gram,2.2,440,Davis-Johnson
+BL-FL-CD,400,Gram,2.5,1000,Davis-Johnson
+BL-FL-NL6,450,Gram,1,450,Freeman Group
+BL-FL-DS,200,Gram,2.5,500,Freeman Group
+BL-FL-AOG,200,Gram,1.3,260,Freeman Group
+BL-FL-BD,200,Gram,1.6,320,Hammond Ltd
+BL-FL-NL6,450,Gram,1,450,Hammond Ltd
+BL-FL-DS,250,Gram,2.5,625,Stephens-Morris
+BL-FL-PE,250,Gram,1.2,300,Stephens-Morris
+BL-FL-OC,100,Gram,5.5,550,White Ltd
+BL-FL-JH,250,Gram,2.2,550,Ellis PLC
+BL-FL-OC,250,Gram,5.5,1375,Ellis PLC
+BL-FL-JH,200,Gram,2.2,440,Carroll-Douglas
+BL-FL-NL6,350,Gram,1,350,Carroll-Douglas
+BL-FL-LL,250,Gram,1,250,Carroll-Douglas
+BL-FL-OC,250,Gram,5.5,1375,Diaz and Sons
+BL-FL-KTOG,250,Gram,1.6,400,"Wilson, Johnson and Williams"
+BL-FL-AK47,400,Gram,3.5,1400,"Wilson, Johnson and Williams"
+BL-FL-BD,350,Gram,1.6,560,"Wilson, Johnson and Williams"
+BL-FL-KM,350,Gram,1,350,Cole-Spence
+BL-FL-AK47,300,Gram,3.5,1050,Cole-Spence
+BL-FL-AC,350,Gram,1.6,560,Cole-Spence
+BL-FL-24K,200,Gram,1.6,320,Cole-Spence
+BL-FL-SFV,150,Gram,5.5,825,"Harris, Johnson and Ellis"
+BL-FL-BD,350,Gram,1.6,560,"Harris, Johnson and Ellis"
+BL-FL-AK47,150,Gram,3.5,525,"Harris, Johnson and Ellis"
+BL-FL-DS,200,Gram,2.5,500,"Harris, Johnson and Ellis"
+BL-FL-BC,150,Gram,2.2,330,"Taylor, Hernandez and Benson"
+BL-FL-GF,350,Gram,5.5,1925,"Taylor, Hernandez and Benson"
+BL-FL-AK47,150,Gram,3.5,525,"Taylor, Hernandez and Benson"
+BL-FL-AOG,250,Gram,1.3,325,Gibbs-Torres
+BL-FL-SLV,450,Gram,5.5,2475,Gibbs-Torres
+BL-FL-NL6,300,Gram,1,300,Gibbs-Torres
+BL-FL-DS,300,Gram,2.5,750,Gibbs-Torres
+BL-FL-OC,200,Gram,5.5,1100,"Lopez, Palmer and Wilkins"
+BL-FL-LL,500,Gram,1,500,"Williams, Mccarthy and Webb"
+BL-FL-POG,250,Gram,1.6,400,"Williams, Mccarthy and Webb"
+BL-FL-KTOG,400,Gram,1.6,640,Jordan-Stewart
+BL-FL-AOG,150,Gram,1.3,195,Jordan-Stewart
+BL-FL-MOG,100,Gram,5.5,550,Garrett Group
+BL-FL-AC,100,Gram,1.6,160,Garrett Group
+BL-FL-24K,350,Gram,1.6,560,Garrett Group
+BL-FL-GF,300,Gram,5.5,1650,Pope Inc
+BL-FL-AC,350,Gram,1.6,560,Pope Inc
+BL-FL-24K,100,Gram,1.6,160,Palmer-Haynes
+BL-FL-AC,300,Gram,1.6,480,Palmer-Haynes
