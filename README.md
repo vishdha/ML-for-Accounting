@@ -8,9 +8,9 @@ $ pip install matplotlib
 $ pip install seaborn
 
 UPDATE:
-I tired to gather some demo data from Bloomstack demo generator. I tried to look for result in Item Wise Sales History.
+I tried to look for result in Item Wise Sales History from Demo.
 
-I add sample for Item_wise_sales_history.csv
+I added sample for Item_wise_sales_history.csv
 and result we got for same is 
 
 <img src="Result/Item_wise_sales_history/item_wise_sales_history.png">
